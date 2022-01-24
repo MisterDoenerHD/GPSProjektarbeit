@@ -1,3 +1,6 @@
 [submodule "RobotRemote"]
 	path = RobotRemote
 	url = https://github.com/goldjpg/RobotRemote
+[submodule "Robot"]
+	path = Robot
+	url = https://github.com/arne314/GPS_Robot
